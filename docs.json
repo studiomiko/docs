@@ -100,3 +100,15 @@
     }
   }
 }
+{
+  "sidebar": [
+    {
+      "label": "Home",
+      "file": "index.md"
+    },
+    {
+      "label": "GAVI AMR014 TEST",
+      "file": "GAVI_AMR014_TEST.md"
+    }
+  ]
+}
